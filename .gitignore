@@ -1,6 +1,9 @@
-*.class
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
